@@ -11,7 +11,7 @@ The Bidirectional LSTM model is a deep learning model that uses Long Short-Term 
 2. BERT (Bidirectional Encoder Representations from Transformers)
 BERT is a state-of-the-art pre-trained language model developed by Google. It uses a transformer architecture and bidirectional training to learn contextualized word embeddings. We fine-tune the pre-trained BERT model for sentiment analysis on our dataset.
 
-3.Naive Bayesian Classification
+3. Naive Bayesian Classification
 
 ## Implementation
 The project is implemented in Python using popular deep learning libraries, including PyTorch and Hugging Face Transformers. The steps of the implementation are as follows:
