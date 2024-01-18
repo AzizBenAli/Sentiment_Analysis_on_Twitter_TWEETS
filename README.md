@@ -5,13 +5,13 @@ This project implements sentiment analysis using three different models: Bidirec
 The dataset used in this project consists of text data labeled with sentiment classes (e.g., positive, negative, neutral). The dataset is split into a training set and a test set. The training set is used to train the models, and the test set is used to evaluate their performance.
 
 ## Models
-1. Bidirectional LSTM
+- Bidirectional LSTM
 The Bidirectional LSTM model is a deep learning model that uses Long Short-Term Memory (LSTM) cells in both forward and backward directions. It is well-suited for sequence data like text due to its ability to capture long-term dependencies.
 
-2. BERT (Bidirectional Encoder Representations from Transformers)
+- BERT (Bidirectional Encoder Representations from Transformers)
 BERT is a state-of-the-art pre-trained language model developed by Google. It uses a transformer architecture and bidirectional training to learn contextualized word embeddings. We fine-tune the pre-trained BERT model for sentiment analysis on our dataset.
 
-3. Naive Bayesian Classification
+- Naive Bayesian Classification
 
 ## Implementation
 The project is implemented in Python using popular deep learning libraries, including PyTorch and Hugging Face Transformers. The steps of the implementation are as follows:
