@@ -2,7 +2,7 @@
 This project implements sentiment analysis using three different models: Bidirectional LSTM, BERT (Bidirectional Encoder Representations from Transformers), and GPT-2 (Generative Pre-trained Transformer 2). The goal is to compare the performance of these models and determine which one performs better for sentiment analysis on the given dataset.
 
 ## Dataset
-The dataset used in this project consists of text data labeled with sentiment classes (e.g., positive, negative, neutral). The dataset is split into a training set and a test set. The training set is used to train the models, and the test set is used to evaluate their performance.
+The dataset used in this project consists of text data labeled with sentiment classes (e.g., positive, negative, neutral). The dataset is split into a training set and a test set. The training set is used to train the models, and the test set is used to evaluate their performance. 
 
 ## Models
 - Bidirectional LSTM
